@@ -6,7 +6,7 @@ Yo, welcome to my digital crib — where I cook code, break stuff (intentionally
 
 - 🔧 Cooking up Android apps in **Kotlin** & **Java**
 - 🔥 Dabble in Firebase like it's second nature
-- 🎮 Building some sus party games (Spyfall-style... shhh 🤫)
+- 🎮 Building some sus party games Spyfall-style... shii
 - 🧠 Learning how to make my code less mid
 
 ## 🌐 What I Mess With
@@ -14,16 +14,12 @@ Yo, welcome to my digital crib — where I cook code, break stuff (intentionally
 - `Android Studio` (ride or die)
 - `Firebase Auth` (cause login systems be wild sometimes)
 - `REST APIs` (gotta talk to the cloud fr)
-- `UI/UX` (a lil’ ✨ pizzazz ✨ never hurt nobody)
-
+- 
 ## 🤝 Collab Vibes?
 
 If you:
 - write clean code 🧼
-- send good memes 😭
 - and ain’t afraid of debugging demons 👹
-
-Then slide into my DMs or hit me with a collab idea.
 
 ## 🧠 Fun Facts
 
@@ -35,8 +31,6 @@ Then slide into my DMs or hit me with a collab idea.
 
 Wanna vibe or got questions?  
 Drop me a DM or stalk me around GitHub — I’ll be somewhere pushing commits at 2AM 💀
-
----
 
 "Stay hydrated, touch grass, and git commit your dreams." 🚀
 
