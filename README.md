@@ -14,7 +14,7 @@ Yo, welcome to my digital crib — where I cook code, break stuff, and vibe with
 - `Android Studio` (ride or die)
 - `Firebase Auth` (cause login systems be wild sometimes)
 - `REST APIs` (gotta talk to the cloud fr)
-- 
+
 ## 🤝 Collab Vibes?
 
 If you:
@@ -23,9 +23,9 @@ If you:
 
 ## 🧠 Fun Facts
 
-- 👾 I debug in my dreams sometimes (help)
+- 🐞 I debug in my dreams sometimes (help)
 - 🎧 I code better with Arctic Monkeys blasting in the bg
-- 🐸 I believe dark mode saves lives (and eyeballs)
+- 👾 I believe dark mode saves lives (and eyeballs)
 
 ## 📫 Hit Me Up
 
