@@ -1,6 +1,6 @@
 # 👋 Sup, I'm Musolini
 
-Yo, welcome to my digital crib — where I cook code, break stuff (intentionally 👀), and vibe with caffeine & late-night commits.
+Yo, welcome to my digital crib — where I cook code, break stuff, and vibe with caffeine & late-night commits.
 
 ## 💻 What I'm On Right Now
 
