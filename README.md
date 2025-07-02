@@ -21,7 +21,7 @@ If you:
 - write clean code 🧼
 - and ain’t afraid of debugging demons 👹
 
-## 🧠 Fun Facts
+## 🧊 Cold Facts
 
 - 🐞 I debug in my dreams sometimes (help)
 - 🎧 I code better with Arctic Monkeys blasting in the bg
@@ -29,8 +29,8 @@ If you:
 
 ## 📫 Hit Me Up
 
-Wanna vibe or got questions?  
-Drop me a DM or stalk me around GitHub — I’ll be somewhere pushing commits at 2AM 💀
+Wanna build weird apps? Need a chaos dev with just enough sanity?
+Drop me a message. I might respond. Or I might be stuck in a bug for 3 days. We'll see.
 
 "Stay hydrated, touch grass, and git commit your dreams." 🚀
 
