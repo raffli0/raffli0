@@ -21,7 +21,7 @@ If you:
 - write clean code 🧼
 - and ain’t afraid of debugging demons 👹
 
-## 🧊 Cold Facts
+## 🧊 Cold
 
 - 🐞 I debug in my dreams sometimes (help)
 - 🎧 I code better with Arctic Monkeys blasting in the bg
