@@ -1,6 +1,6 @@
 # 👋 Sup, I'm Musolini
 
-Yo, welcome to my digital crib — where I cook code, break stuff, and vibe with caffeine & late-night commits.
+Yo, welcome to my digital cribb where I cook code, break stuff, and vibe with caffeine & late-night commits.
 
 ## 💻 What I'm On Right Now
 
@@ -11,7 +11,7 @@ Yo, welcome to my digital crib — where I cook code, break stuff, and vibe with
 
 ## 🌐 What I Mess With
 
-- `Android Studio` (ride or die)
+- `Android Studio` (heavy af)
 - `Firebase Auth` (cause login systems be wild sometimes)
 - `REST APIs` (gotta talk to the cloud fr)
 
