@@ -27,7 +27,7 @@ export MOTTO="If it works, optimize it. If it's secure, test it harder."
 
 ---
 
-### 🛠️ Tech Arsenal & Frameworks
+### 🛠️ Tech Stack & Frameworks
 
 <div align="center">
 
