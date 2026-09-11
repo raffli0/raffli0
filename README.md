@@ -1,7 +1,7 @@
 <div align="center">
 
 # `> raffli0`
-### 🛡️ CTF Player & Systems / Desktop Developer
+### CTF Player & Systems / Desktop Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=22C55E&center=true&vcenter=true&width=620&lines=%24+whoami+%3A+CTF+Player+%7C+Reverse+Engineering;%24+specialty+%3A+C%2B%2B+%26+Python+Desktop+Architecture;%24+status+%3A+Building+fast+tools+%26+breaking+binaries;%24+echo+%22Welcome+to+my+digital+workspace.%22)](https://git.io/typing-svg)
 
